@@ -1,7 +1,7 @@
 ---
-subheader: "It's Nice To Meet You"
-header: "Hello, My name is Ryan Bray"
+header: "My name is Ryan Bray"
+subheader: "Engineering our future"
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
+jumpToAnchor: "About"
 jumpToAnchorText: "Learn More"
 ---
