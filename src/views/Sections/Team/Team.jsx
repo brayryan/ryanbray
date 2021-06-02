@@ -30,11 +30,10 @@ const Team = ({ className, frontmatter }) => {
           <Col sm={4} key={header}>
             <TeamMember header={header} {...tmProps} />
           </Col>
+
         ))}
-      </Row>
-      <Row>
         <Col lg={8} className="mx-auto text-center">
-          <p className="large text-muted">{rootContent}</p>
+          <p className="large text-muted about-text">{rootContent}</p>
         </Col>
       </Row>
     </PageSection>

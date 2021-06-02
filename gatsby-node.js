@@ -55,6 +55,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       linkedin: String
       medium: String
       github: String
+      email: String
     }
     `,
   ];

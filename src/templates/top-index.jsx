@@ -34,10 +34,6 @@ export const query = graphql`
         frontmatter {
           brand
           anchor
-          clients {
-            href
-            imageFileName
-          }
           content
           copyright
           header
@@ -68,6 +64,7 @@ export const query = graphql`
             linkedin
             medium
             twitter
+            email
           }
           subheader
           teamMember {
@@ -79,6 +76,7 @@ export const query = graphql`
               linkedin
               medium
               twitter
+              email
             }
             subheader
           }

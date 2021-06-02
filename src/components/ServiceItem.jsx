@@ -13,7 +13,7 @@ const ServiceItem = ({ iconName, imageFileName, header, content }) => {
 
   let imagePart;
   if (imageFileName) {
-    imagePart = <Image className="service-item-image" fileName={imageFileName} />;
+    imagePart = <Image className="service-item-image" alt="" fileName={imageFileName} />;
   }
 
   return (

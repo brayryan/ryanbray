@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Ryan Bray"
 menuText: "Menu "
 ---

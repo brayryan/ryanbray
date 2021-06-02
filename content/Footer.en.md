@@ -1,9 +1,8 @@
 ---
 copyright: "Copyright © Start Bootstrap 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  linkedin: "ryan-bray-90383815b/",
+  email: "brayryan@msu.edu"
 }
 privacyText: "Privacy Policy"
 privacyHref: "#!"
