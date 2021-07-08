@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "Ryan Bray Portfolio",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -10,7 +10,7 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
+  description: "My website describing more information about me and my past experiences and projects.",
   author: "thundermiracle",
   trackingId: "UA-119418003-5",
   defaultLang: "en",
