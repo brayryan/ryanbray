@@ -16,7 +16,7 @@ teamMember: [
     header: "Ryan Bray",
     subheader: "Materials Science Engineer",
     social: {
-      linkedin: "ryan-bray-90383815b/",
+      linkedin: "bray-ryan/",
       email: "brayryan@msu.edu"
     }    
   },
